@@ -1,0 +1,20 @@
+#home-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.tennis-page {
+    padding: 10px;
+}
+
+.nav-menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-page{
+    padding: 20px;
+}
